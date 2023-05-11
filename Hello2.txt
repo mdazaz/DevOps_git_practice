@@ -1,0 +1,1 @@
+My second file added in second version of git commit
